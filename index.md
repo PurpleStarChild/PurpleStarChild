@@ -7,8 +7,6 @@ header:
 author_profile: true
 ---
 
-This site is my professional blog where I will be sharing my thoughts on security, diversity, and tech. You can read more about my intentions for this blog [here](/introduction/time-to-work/).
-
-If you would like to know more about myself and my professional philosophy check out my [about me](/about/).
+I originally created this site as my professional blog. However since then I've discovered that there is more that I wish to share. I'll still be trying to segment my thoughts where I can so it's easier to search. Infosec will preferably go with infosec, etc. If you want to learn a bit more about myself you can check out my [about me](/about/).
 
 **Disclaimer:** All opinions on this blog are my own and are not on behalf of my employer. 
