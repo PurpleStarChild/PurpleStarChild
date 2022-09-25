@@ -1,8 +1,8 @@
 ---
 title: The Time For Anger
 excerpt: "[...] I want to accomplish change, not just be angry with a profit. "
-category: DE&I
-tags: The Work, Diversity, LGBTQ+
+category: Archive
+tags: The Work, DE&I, Diversity, LGBTQ+
 ---
 
 # Reflection

@@ -97,22 +97,22 @@ analytics:
 # Site Author
 author:
   name             : "StarChild (they/them)"
-  avatar           : /assets/images/bio-photo.jpg
-  bio              : "I am a Principal Infrastructure & Operations Security Engineer and I'm also an activist who is trying to make the world a better and safer place."
+  avatar           : /assets/images/bio-photo.png
+  bio              : "I am a DevSecOps Engineer who is learning how to make the world a better place."
   location         : "Michigan"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:contact@chaos-cat.page"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/progeer"
+    - label: "Personal Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://plush.city/@PurpleStarChild"
+    - label: "Keybase"
+      icon: "fab fa-fw fa-keybase"
+      url: "https://keybase.io/progeer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PurpleStarChild/"
-    #- label: "LinkedIn"
-    #  icon: "fab fa-fw fa-linkedin-in"
-    #  url: "https://www.linkedin.com/in/alexa-kelley/"
 
 # Site Footer
 footer:
