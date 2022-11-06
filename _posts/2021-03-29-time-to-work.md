@@ -5,8 +5,8 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Neon sign labelled change, Photo credit: [Ross Findon](https://unsplash.com/@rossf) on [**Unsplash**](https://unsplash.com)"
 excerpt: "I figured it's time to finally make some content[...]"
-category: Introduction
-tags: Introduction Goals
+category: Archive
+tags: Introduction, Goals
 ---
 
 # Time to Get to Work

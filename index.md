@@ -7,6 +7,8 @@ header:
 author_profile: true
 ---
 
-I originally created this site as my professional blog. However since then I've discovered that there is more that I wish to share. I'll still be trying to segment my thoughts where I can so it's easier to search. Infosec will preferably go with infosec, etc. If you want to learn a bit more about myself you can check out my [about me](/about/).
+I originally created this site as a professional blog. It was to serve as a place for me to share my thoughts on the industry, and the things I could share of my work. 
+
+Since then my life has changed and the world has changed. I'm still figuring out what purpose this site will serve. However at the very least some of this is to serve as a landing page. If you're looking for my personal writings you can find them in the [blog](/blog/) section. Alternatively if you're wanting to learn more about myself and other places I am on the net, you can check out my [about me](/about/).
 
 **Disclaimer:** All opinions on this blog are my own and are not on behalf of my employer. 
