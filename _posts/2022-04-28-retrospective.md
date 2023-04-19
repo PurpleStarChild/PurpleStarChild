@@ -6,7 +6,7 @@ header:
   caption: "A moneky thinking, Photo credit: [Juan Rumimpunu](https://unsplash.com/@earbiscuits) on [**Unsplash**](https://unsplash.com)"
 excerpt: "[...] I think this needs to change"
 category: Archive
-tags: Introspection, Self Reflection, Personal, Retrospectives, 
+tags: Introspection Personal Retrospectives 
 ---
   
 # Something Is Broken

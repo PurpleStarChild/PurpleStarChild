@@ -2,7 +2,7 @@
 title: "Introductions: Starchild"
 excerpt: "My name is StarChild. I have gone by other names in the past[...]"
 category: About Me
-tags: Introduction, Import, Personal, Substack 
+tags: Introduction Import Personal Substack 
 ---
 _Note_:
 This was originally written as part of my family's Substack. As we're now moving away from that platform I'm moving the post over to here. 

@@ -6,7 +6,7 @@ header:
   caption: "A snow and ice covered yard with large branches fallen, Photo credit: [StarChild](https://chaos-cat.page)"
 excerpt: "Thoughts on staying alive in a dangerous time"
 category: Archive
-tags: Introduction, Goals
+tags: Introduction Goals
 ---
 _Note_:
 This was originally written as part of my family's Substack. As we're now moving away from that platform I'm moving the post over to here. 

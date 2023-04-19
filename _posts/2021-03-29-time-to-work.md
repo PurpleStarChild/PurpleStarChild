@@ -6,7 +6,7 @@ header:
   caption: "Neon sign labelled change, Photo credit: [Ross Findon](https://unsplash.com/@rossf) on [**Unsplash**](https://unsplash.com)"
 excerpt: "I figured it's time to finally make some content[...]"
 category: Archive
-tags: Introduction, Goals
+tags: Introduction Goals
 ---
 
 # Time to Get to Work
