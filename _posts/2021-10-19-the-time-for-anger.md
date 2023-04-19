@@ -1,5 +1,5 @@
 ---
-title: The Time For Anger
+title: The Time For Anger(archived) 
 excerpt: "[...] I want to accomplish change, not just be angry with a profit. "
 category: Archive
 tags: The Work, DE&I, Diversity, LGBTQ+
