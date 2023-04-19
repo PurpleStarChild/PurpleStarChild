@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "StarChild (they/them)"
   avatar           : /assets/images/bio-photo.png
-  bio              : "I am a DevSecOps Engineer who is learning how to make the world a better place."
+  bio              : "I go by many names and do many things, but at the core I am a child of the stars and a wayfarer."
   location         : "Michigan"
   links:
     - label: "Email"
@@ -106,7 +106,7 @@ author:
       url: "mailto:contact@chaos-cat.page"
     - label: "Personal Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://plush.city/@PurpleStarChild"
+      url: "https://awawa.meo.ws/@starchild"
     - label: "Keybase"
       icon: "fab fa-fw fa-keybase"
       url: "https://keybase.io/progeer"
