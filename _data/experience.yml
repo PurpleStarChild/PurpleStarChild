@@ -1,0 +1,41 @@
+# Jobs
+# Security Program Lead
+- company: VRChat
+  position: Security Program Lead
+  duration: Jan 2023 &mdash; Jun 2024
+  summary: <ul class="resume-item-list"> 
+  <li>Created and led a multidisciplinary security team of 7 members supporting 100+ employees. </li> 
+  <li> Developed an incident response capability from scratch and coordinted incidents management across many time zones. </li> 
+  <li> Planned and implemented both short-term(<1 year) and long-term(1-5 years) security strategies, reporting status updates to executives and senior staff. </li> 
+  <li> Educated employees on security best practices and consulted with 12+ other teams to harden technical designs and reduce security risks.</li>
+    </ul>
+  
+# Backend Security Engineer
+- company: 
+  position: Backend Security Engineer
+  duration: Aug 2022 &mdash; Jan 2023
+  summary: <ul class="resume-item-list"> <li>Conducted threat modeling and assessed the company's security capabilities.</li><li> Performed vulnerability scans and hardened AWS cloud infrastructure for production environment with hundreds of resources. </li><li> Coordinated with API engineers to identify security risks and created mitigation plans.</li><li>Assisted in onboarding new engineers and partnered with the legal team on compliance needs.</li></ul>
+
+# Principal Infrastructure & Operations Security Engineer
+- company: Vimeo
+  position: Principal Infrastructure & Operations Security Engineer
+  duration: Sep 2019 &mdash; Aug 2022
+  summary: <ul class="resume-item-list"><li> Designed, implemented, and managed a company wide incident response program, including training/documentation/KPI's/executive briefs/etc. </li><li> Coordinated multiple simultaneous high priority projects across complex environments & requirements. </li><li> Interviewed dozens of candidates for hiring initiatives and assisted in improving the hiring process. </li><li> Researched industry security best practices and tested implementations. </li><li> Mentored colleagues on navigating company environment and professional growth. </li></ul>
+
+# Security Engineer
+- company: Jackson
+  position: Security Engineer
+  duration: Feb 2019 &mdash; Aug 2019
+  summary: <ul class="resume-item-list"><li> Scoped, designed, and implemented ansible & docker based SOAR system directly improving incident analysis/response times. </li><li> Updated and maintained SIEM infrastructure. Engineered solutions to meet current and future company needs. </li><li> Participated in multi-team/department initiatives improving company security. </li><li> Integrated new and existing systems using RESTful APIs. </li><li> Established team-wide version control policy and best coding practices for future projects. </li><li> Encouraged project resilience and disaster recovery initiatives.</li></ul>
+
+# Co-Owner
+- company: Dragon Scale Networking
+  position: Co-Owner
+  duration: Sep 2017 &mdash; Feb 2019
+  summary: <ul class="resume-item-list"><li> Owned and operated business. Including client management, inventory management & acquisitions, technical repository creation, and project management</li><li> Designed, constructed, and supported secure infrastructure solutions for clients including servers, routers, and desktop machines.</li><li> Delivered industry standard cyber security services including malware remediation, data forensics & recovery, and system hardening </li></ul>
+
+# Cyber Intelligence Analyst & Security Assurance Team Analyst
+- company: General Electric
+  position: Cyber Intelligence Analyst & Security Assurance Team Analyst
+  duration: May 2010 &mdash; Jan 2015
+  summary: <ul class="resume-item-list"><li> Utilized Splunk to analyze large data sets and support incident response activities.</li><li> Conducted R&D to improve techniques and develop new technologies.</li><li> Developed tools in Python and launched virtualized environments on local and AWS platforms.</li><li> Designed and deployed several company projects, communicated critical vulnerabilities to support teams, and presented findings to executives.</li><li> Coordinated on internal technical white papers and participated in Scrum Agile framework for rapid team goal development.</li></ul>
