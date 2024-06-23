@@ -3,13 +3,13 @@
 - company: VRChat
   position: Security Program Lead
   duration: Jan 2023 &mdash; Jun 2024
-  summary: <ul class="resume-item-list"> <li>Created and led a multidisciplinary security team of 7 members supporting 100+ employees. </li> <li> Developed an incident response capability from scratch and coordinted incidents management across many time zones. </li> <li> Planned and implemented both short-term(<1 year) and long-term(1-5 years) security strategies, reporting status updates to executives and senior staff. </li><li> Advised & implemented strategies for securing-generated content(UGC).</li> <li> Educated employees on security best practices and consulted with 12+ other teams to harden technical designs and reduce security risks.</li></ul>
+  summary: <p class="resume-item-copy">This position was a highlight in my career. In which I built a security capability from the ground up, supporting and securing the industry leading work in VR/XR & User-Generated Content.</p><ul class="resume-item-list"> <li>Created and led a multidisciplinary security team of 7 members supporting 100+ employees. </li> <li> Developed an incident response capability from scratch and coordinated incidents management across many time zones. </li> <li> Planned and implemented both short-term(<1 year) and long-term(1-5 years) security strategies, reporting status updates to executives and senior staff. </li><li> Advised & implemented strategies for securing-generated content(UGC).</li> <li> Educated employees on security best practices and consulted with 12+ other teams to harden technical designs and reduce security risks.</li></ul>
   
 # Backend Security Engineer
 - company: 
   position: Backend Security Engineer
   duration: Aug 2022 &mdash; Jan 2023
-  summary: <ul class="resume-item-list"> <li>Conducted threat modeling and assessed the company's security capabilities.</li><li> Performed vulnerability scans and hardened AWS cloud infrastructure for production environment with hundreds of resources. </li><li> reviewed access management strategies across the company and over a dozen platforms</li><li> Coordinated with API engineers to identify security risks and created mitigation plans, including on cloud architecture & configuration.</li><li>Assisted in onboarding new engineers and partnered with the legal team on compliance needs.</li></ul>
+  summary: <ul class="resume-item-list"> <li>Conducted threat modeling and assessed the company's security capabilities.</li><li> Performed vulnerability scans and hardened AWS cloud infrastructure for production environment with hundreds of resources. </li><li> Reviewed access management strategies across the company and over a dozen platforms.</li><li> Coordinated with API engineers to identify security risks and created mitigation plans, including on cloud architecture & configuration.</li><li>Assisted in onboarding new engineers and partnered with the legal team on compliance needs.</li></ul>
 
 # Principal Infrastructure & Operations Security Engineer
 - company: Vimeo
