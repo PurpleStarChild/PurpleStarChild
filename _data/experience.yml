@@ -18,7 +18,7 @@
   summary: <ul class="resume-item-list"><li> Designed, implemented, and managed a company wide incident response program, including training/documentation/KPI's/executive briefs/etc. </li><li> Coordinated multiple simultaneous high priority projects across complex environments & requirements. </li><li> Scanned and remediated cloud architecture across both AWS & GCP.</li><li> Interviewed dozens of candidates for hiring initiatives and assisted in improving the hiring process. </li><li> Researched industry security best practices and tested implementations. </li><li> Mentored colleagues on navigating company environment and professional growth. </li></ul>
 
 # Security Engineer
-- company: Jackson
+- company: Jackson National Life
   position: Security Engineer
   duration: Feb 2019 &mdash; Aug 2019
   summary: <ul class="resume-item-list"><li> Scoped, designed, and implemented ansible & docker based SOAR system directly improving incident analysis/response times. </li><li> Updated and maintained SIEM infrastructure. Engineered solutions to meet current and future company needs. </li><li> Participated in multi-team/department initiatives improving company security. </li><li> Integrated new and existing systems using RESTful APIs. </li><li> Established team-wide version control policy and best coding practices for future projects. </li><li> Encouraged project resilience and disaster recovery initiatives.</li></ul>
