@@ -78,6 +78,7 @@
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+          <h4 class="resume-item-copy" itemprop="languages">Lanagues used: {{ job.languages }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
@@ -111,7 +112,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Languages</h2>
+          <h2>Spoken Languages</h2>
         </header>
         {% for language in site.data.languages %}
         <div class="resume-item-copy">
