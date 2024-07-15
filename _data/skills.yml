@@ -1,12 +1,13 @@
 # Skills
-# People Management
-- skill: People Management
-  description: Leadership is a strong factor in the success or failure of a team, and so I've invested my time in it heavily. I've focused particularly on compassionate leadership strategies, conflict resolution, and communication. At the end of the day I should be raising up the accomplishments of my team and celebrating them. 
 
-# Security Management
-- skill: Security Management
-  description: Security management is the holistic combination of all functional domains of a successful security program in the form of oversight and direct. It requires the ability for both tactical and strategic decision making that is informed through experience and industry best practices. Over the course of my career I've had the fortune to learn and practice security management in a wide variety of environments, from 100,000+ employee corporations to start-ups under 20 employees. 
+# Vulnerability & Risk Management
+- skill: Vulnerability & Risk Management
+  description: I've had the fortune to learn and engage in vulnerability & risk management in a wide variety of environments, from 100,000+ employee corporations to start-ups in the single digits. Every company has their own areas that need more attention and areas that are sufficiently hardened. I've learned that it takes patience and diligence to identify those areas that need attention and address them appropriately. 
 
 # Security Operations & Incident Response
 - skill: Security Operations
-  description: I've been doing security operations and incident repsonse since I began my work in security 15 years ago. I've analyzed activity of nation state actors, malicious users, and cybercrimals. I've also built two bespoke incident response functions for different companies.
+  description: I've been doing security operations and incident response since I began my work in security 15 years ago. I've analyzed activity of nation state actors, malicious users, and cybercriminals. I've also built two bespoke incident response capabilities for different companies. 
+
+# People Management
+- skill: Communication & Leadership
+  description: I approach communication and clear leadership as a significant deciding factor in the success or failure of any team, and especially so for any security operation. I take a lot of lessons from the concepts of servant leadership and focus on ways that I can empower my team. In communication I have written and presented a broad range of writing from technical white papers for engineers, to board room presentations to executives, to announcements & alerts for the layperson. 
