@@ -1,13 +1,12 @@
 # Skills
+# Security Operations & Incident Response
+- skill: Security Operations & Incident Response
+  description: I started my career doing incident response and security operations and I've continued to hone those skills since. I've analyzed activity of nation state actors, coordinated response to multi-business compromises, developed detections against  malicious users, and disrupted cybercriminals. I've built two bespoke incident response capabilities from the ground up and helped mature several others. 
 
 # Vulnerability & Risk Management
 - skill: Vulnerability & Risk Management
   description: I've had the fortune to learn and engage in vulnerability & risk management in a wide variety of environments, from 100,000+ employee corporations to start-ups in the single digits. Every company has their own areas that need more attention and areas that are sufficiently hardened. I've learned that it takes patience and diligence to identify those areas that need attention and address them appropriately. 
 
-# Security Operations & Incident Response
-- skill: Security Operations
-  description: I've been doing security operations and incident response since I began my work in security 15 years ago. I've analyzed activity of nation state actors, malicious users, and cybercriminals. I've also built two bespoke incident response capabilities for different companies. 
-
 # People Management
 - skill: Communication & Leadership
-  description: I approach communication and clear leadership as a significant deciding factor in the success or failure of any team, and especially so for any security operation. I take a lot of lessons from the concepts of servant leadership and focus on ways that I can empower my team. In communication I have written and presented a broad range of writing from technical white papers for engineers, to board room presentations to executives, to announcements & alerts for the layperson. 
+  description: I approach communication and leadership as a significant deciding factor in the success or failure of any team, and especially so for security operations. I take many lessons from the concepts of servant leadership and focus on ways that I can empower my team. In communication I have written and presented a broad range of writing from technical white papers for engineers, boardroom presentations for executives, to announcements & alerts for the layperson. 
