@@ -9,18 +9,18 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Alexa​ Kelley"
 resume_title:                   "Seeking a Position in Information Security"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "starchild@chaos-cat.page"
+resume_contact_email:           "alexajkelley@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+1 (734) 644-1965"
-resume_contact_address:         "Relocating"
+#resume_contact_address:         "Relocating"
 
-resume_header_contact_info:     "Relocating • +1 (734) 644-1965 • starchild@chaos-cat.page"
+resume_header_contact_info:     "+1 (734) 644-1965 • alexajkelley@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p> As a security professional with nearly 15 years of experience I have gained a diverse set of skill including security operations,  vulnerability management, people management, cloud architecture, data analysis, threat modeling, and cyber intelligence. In all of these I take a systems theory approach, looking for risks resulting from emergent phenomena. 
@@ -58,13 +58,13 @@ resume_section_education:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/PurpleStarChild"
+  #resume_github_url:            "https://github.com/PurpleStarChild"
   #resume_twitter_url:           "http://twitter.com/jglovier"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/alexa-kelley/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://chaos-cat.page"
+  #resume_website_url:           "https://chaos-cat.page"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
