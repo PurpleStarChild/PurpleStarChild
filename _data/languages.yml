@@ -1,7 +1,7 @@
 # Languages
-- language: English
-  proficiency: Native or bilingual proficiency
-- language: Japanese
-  proficiency: Elementary proficiency
-- language: Swedish
-  proficiency: Elementary proficiency
+- language: English &bull; Japanese &bull; Swedish
+#  proficiency: Native or bilingual proficiency
+#- language: Japanese
+#  proficiency: Elementary proficiency
+#- language: Swedish
+#  proficiency: Elementary proficiency

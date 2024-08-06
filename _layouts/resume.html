@@ -48,27 +48,28 @@
 
       </header>
 
-      {% if site.resume_section_skills %}
-      <!-- begin Skills -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Skills</h2>
-        </header>
-        {% for skill in site.data.skills %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Skills -->
-      {% endif %}
-
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
+
+
+        {% if site.resume_section_skills %}
+        <!-- begin Skills -->
+        <section class="content-section">
+  
+          <header class="section-header">
+            <h2>Skills</h2>
+          </header>
+          {% for skill in site.data.skills %}
+          <div class="resume-item">
+            <h4 class="resume-item-details"> &bull; {{ skill.skill }}</h4>
+          </div>
+          {% endfor %}
+  
+        </section>
+        <!-- end Skills -->
+        {% endif %}
+  
 
         <header class="section-header">
           <h2>Experience</h2>
@@ -76,8 +77,8 @@
 
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+          <h3 class="resume-item-title" itemprop="name">{{ job.company }} {{ job.duration }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ job.position }}</h4>
           <h4 class="resume-item-copy" itemprop="languages">Lanagues used: {{ job.languages }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
@@ -115,8 +116,8 @@
           <h2>Spoken Languages</h2>
         </header>
         {% for language in site.data.languages %}
-        <div class="resume-item-copy">
-          <p class="resume-item-copy"><b>{{ language.language }}</b></p> <!-- </b> - {{ language.proficiency }}</p> -->
+        <div class="resume-item">
+          <h4 class="resume-item-details"><b>&bull; {{ language.language }}</b></h4> <!-- </b> - {{ language.proficiency }}</p> -->
         </div>
         {% endfor %}
 

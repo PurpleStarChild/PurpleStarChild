@@ -1,12 +1,15 @@
 # Skills
 # Security Operations & Incident Response
-- skill: Security Operations & Incident Response
-  description: I started my career doing incident response and security operations and I've continued to hone those skills since. I've analyzed activity of nation state actors, coordinated response to multi-business compromises, developed detections against  malicious users, and disrupted cybercriminals. I've built two bespoke incident response capabilities from the ground up and helped mature several others. 
+- skill: Security Operations &bull; Incident Response &bull; Cyber Threat Intelligence &bull; Intrusion Detection &bull; Threat Modeling
+  #description: I started my career doing incident response and security operations and I've continued to hone those skills since. I've analyzed activity of nation state actors, coordinated response to multi-business compromises, developed detections against  malicious users, and disrupted cybercriminals. I've built two bespoke incident response capabilities from the ground up and helped mature several others. 
 
 # Vulnerability & Risk Management
-- skill: Vulnerability & Risk Management
-  description: I've had the fortune to learn and engage in vulnerability & risk management in a wide variety of environments, from 100,000+ employee corporations to start-ups in the single digits. Every company has their own areas that need more attention and areas that are sufficiently hardened. I've learned that it takes patience and diligence to identify those areas that need attention and address them appropriately. 
+- skill: Vulnerability &bull; Risk Management &bull; Cloud Architecture &bull; AWS &bull; GCP &bull; Azure &bull; SOAR  &bull; EDR &bull; SIEM 
+  #description: I've had the fortune to learn and engage in vulnerability & risk management in a wide variety of environments, from 100,000+ employee corporations to start-ups in the single digits. Every company has their own areas that need more attention and areas that are sufficiently hardened. I've learned that it takes patience and diligence to identify those areas that need attention and address them appropriately. 
+
+# DevOps Skills
+- skill: Kubernetes &bull; DevOps &bull; Technical Documentation &bull; Terraform &bull; Atlantis &bull; Virtualization &bull; Data Analysis
 
 # People Management
-- skill: Communication & Leadership
-  description: I approach communication and leadership as a significant deciding factor in the success or failure of any team, and especially so for security operations. I take many lessons from the concepts of servant leadership and focus on ways that I can empower my team. In communication I have written and presented a broad range of writing from technical white papers for engineers, boardroom presentations for executives, to announcements & alerts for the layperson. 
+- skill: People Management &bull; Program Management(Agile, SCRUM, Waterfall) &bull; Public Speaking &bull; Policy Writing
+  #description: I approach communication and leadership as a significant deciding factor in the success or failure of any team, and especially so for security operations. I take many lessons from the concepts of servant leadership and focus on ways that I can empower my team. In communication I have written and presented a broad range of writing from technical white papers for engineers, boardroom presentations for executives, to announcements & alerts for the layperson. 
