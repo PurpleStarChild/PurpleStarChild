@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Alexa​ Kelley"
-resume_title:                   "Former Lead of Security at VRChat"
+resume_name:                    "Alexa​ (StarChild) Kelley"
+resume_title:                   "Former security manager at VRChat"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "starchild@chaos-cat.page"
@@ -23,16 +23,15 @@ resume_contact_telephone:       "+1 (734) 644-1965"
 resume_header_contact_info:     "+1 (734) 644-1965 • starchild@chaos-cat.page"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p> As a security professional with nearly 15 years of experience I have gained a diverse set of skill including security operations,  vulnerability management, people management, cloud architecture, data analysis, threat modeling, and cyber intelligence. My extensive experience and advanced roles are equivalent to holding a Bachelor's and Master's degree in Cybersecurity. In general I take a systems theory approach, looking for risks resulting from emergent phenomena. 
-
-My professional philosophies include:
+resume_header_intro: "<p> I am a security professional with a diverse array of skills, including security operations, vulnerability management, people management, cloud architecture, data analysis, threat modelling, and cyber intelligence. I strive for continuous improvement, heavily influenced by the principles of servant leadership. I excel both as a leader—empowering my team to succeed—and as an individual contributor (IC) engineer, hardening an organisation against threats.
 <br>
+My professional philosophies include:
+
   <ul> 
-<li> People deserve to be treated with dignity and respect.</li>
-<li> Whenever possible design systems with people first in mind. </li>
-<li> Security exists to empower and to protect.(ie. Guardrails not roadblocks) </li>
-<li> Systems must be sustainable in design and implementation for long term success.</li>
-<li> Keep a tool-agnostic approach where possible.</li>
+<li> Treat people with dignity and respect.</li>
+<li> Designing systems with a people-first approach.</li>
+<li> Prioritising sustainable design and implementation for long-term success.</li>
+<li> Focusing on techniques and concepts over tools, i.e., adopting a tool-agnostic approach wherever possible.</li>
   </ul>
 </p>"
 
@@ -52,7 +51,7 @@ resume_section_languages:       true
 #resume_section_recognition:     true
 #resume_section_links:           true
 #resume_section_associations:    true
-resume_section_education:       true
+#resume_section_education:       true
 #resume_section_interests:       true
 
 # Resume social links
@@ -62,11 +61,11 @@ resume_social_links:
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/alexa-kelley/"
+  #resume_linkedin_url:          "https://www.linkedin.com/in/alexa-kelley/"
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "https://chaos-cat.page"
   # resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      false
+resume_print_social_links:      true
 
 # Design settings
 resume_theme:                   default
